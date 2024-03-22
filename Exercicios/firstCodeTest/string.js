@@ -1,3 +1,3 @@
 const asciiTest = "Hello"
 
-console.log(asciiTest.charCodeAt(0))
+console.log(asciiTest.concat(" World"))
